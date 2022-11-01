@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test By nikhil
+=======
+test file
+>>>>>>> b6a94305bd672d966ea436e24df758e2c11e88a4
